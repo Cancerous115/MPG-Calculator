@@ -1,18 +1,3 @@
-/*
-Class: CSE 1321L
-Section: Introduction to Java and IntelliJ ...
-Term: Fall 2023...
-Instructor: Mamo,Ermias...
-Name: Garrett Cook...
-Lab#: 1...
-*/
-/*
-Class: CSE 1321L
-Section: J03
-Term: Fall 2023
-Instructor: Mourya
-Name: Garrett Cook
-Lab#: 202*/
 import java.util.Scanner;
 public class Lab1C {
     // Calculates fuel efficiency based on values entered by the user.
